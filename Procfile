@@ -1,1 +1,1 @@
-web: gunicorn apimeerkat.py
+web: gunicorn apimeerkat:application
